@@ -59,10 +59,8 @@ The configuration file should adhere to the following format:
     {
         "Rack Name": "Rack1",
         "ESXIs": {
-            "ESXi1": {
-                "Rack Unit": ["U1", "U2"],
-                "VMs": [
-                    ...
+            "x.y.z.a": {
+                "Rack Unit": ["U1", "U2"]
                 ]
             }
         }
