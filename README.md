@@ -50,6 +50,8 @@ python update_datacenter_config.py
 
 Follow the prompts to input the necessary data.
 
+You have to enter all of your racks and ESXis once at least in order to have a full inventory.
+
 ## `datacenter.json` Format
 
 The configuration file should adhere to the following format:
