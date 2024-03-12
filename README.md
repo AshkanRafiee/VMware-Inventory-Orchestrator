@@ -61,7 +61,6 @@ The configuration file should adhere to the following format:
         "ESXIs": {
             "x.y.z.a": {
                 "Rack Unit": ["U1", "U2"]
-                ]
             }
         }
     }
